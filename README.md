@@ -17,3 +17,7 @@ JavaScript
 ├── Functions
 ├── DOM
 ├── Events
+
+
+## Author
+Akshant Lohan
